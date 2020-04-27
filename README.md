@@ -1,4 +1,4 @@
-# House-Price-Prediction (Machine Learning Algorithms)
+Project - House Price Prediction 🔍(using Decision Tree and Random Forest Machine Learning Algorithms)
 
 🎯Business Goal: This project aims to (using Decision Tree and Random Forest Machine Learning Algorithms) predict the actual value of the prospective properties and help Company to decide whether to invest in them or not.
 
