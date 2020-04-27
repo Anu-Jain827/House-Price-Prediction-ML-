@@ -5,5 +5,4 @@ This project aims to (using Decision Tree and Random Forest Machine Learning Alg
 
 🔧Tools Used
 
-Libraries- scikit-learn, pandas, numpy, matplotlib
-Python
+Libraries- scikit-learn, pandas, numpy, matplotlib, Python
